@@ -1,8 +1,8 @@
 {
     "dir": "ltr",
-    "1": "Primary",
-    "2": "Secondary",
-    "3": "System Default",
-    "4": "Resolver updated successfully. A restart is required before the resolvers can be used.",
-    "5": "Resolvers could not be updated. Try again later."
+    "1": "主要",
+    "2": "次要",
+    "3": "系統預設",
+    "4": "成功設定 DNS 伺服器，伺服器重啟後即可生效",
+    "5": "無法設定 DNS 伺服器，請稍後再試"
 }
