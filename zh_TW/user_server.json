@@ -205,10 +205,10 @@
     "203": "主要 IPv4:",
     "204": "主要 IPv6:",
     "205": "Created:",
-    "206": "Drive:",
-    "207": "Primary",
-    "208": "Pending",
-    "209": "Ready",
+    "206": "硬碟",
+    "207": "主要",
+    "208": "準備中",
+    "209": "已準備",
     "210": "已停用",
     "211": "刪除中",
     "212": "啟動",
@@ -323,7 +323,7 @@
     "324": "預設 CD\/DVD",
     "325": "客製化",
     "326": "The supplied URL is invalid. A URL must be formatted correctly and return a 200 HTTP code. Re-directs are forbidden.",
-    "327": "Pending Changes",
-    "328": "One or more changes to the server are pending. Changes can be processed by issuing a Restart, Shutdown or Boot action from this control panel.",
-    "329": "Disabling VNC."
+    "327": "改變等待中",
+    "328": "一個或多個伺服器改變正在等待。透過此面板重新啟動過關機，變更即可生效。",
+    "329": "正在停用 VNC"
 }
