@@ -13,7 +13,7 @@
     "11": "私鑰格式",
     "12": "位元",
     "13": "生成",
-    "14": "Generate Key Pair",
+    "14": "生成",
     "15": "儲存",
     "16": "編輯",
     "17": "關閉",
@@ -35,7 +35,7 @@
     "33": "個金鑰",
     "34": "可新增空間",
     "35": "新增 SSH 金鑰",
-    "36": "The selected SSH keys that will be configured under the root user when the operating system is installed.",
+    "36": "您選取的 SSH 金鑰將會在系統安裝好後被設定在 root 使用者。",
     "37": "擁有者:",
     "38": "成功共用 SSH 金鑰",
     "39": "建立時間:",
@@ -47,6 +47,6 @@
     "45": "成功啟用 SSH 金鑰",
     "46": "成功停用 SSH 金鑰",
     "47": "名稱必須介於 3 到 150 個字元之間，並且是必填欄位。",
-    "48": "Public Key must be a valid key and is a required field.",
+    "48": "公鑰必須是一個有效的 SSH 金鑰，並且是必填欄位。",
     "49": "您"
 }
