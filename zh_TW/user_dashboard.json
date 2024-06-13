@@ -1,8 +1,8 @@
 {
     "dir": "ltr",
-    "1": "Greetings,",
-    "2": "Dashboard",
-    "3": "Sharing",
+    "1": "您好，",
+    "2": "",
+    "3": "分享",
     "4": "Access tokens allow you to request access to other server groups, servers or SSH keys on the system. If you know another user who has an account with us, just generate a token and send it to them. They can use the token to assign you to a specific resource.",
     "5": "The following access tokens are available:",
     "6": "Created:",
