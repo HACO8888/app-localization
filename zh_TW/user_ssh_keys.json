@@ -37,7 +37,7 @@
     "35": "新增 SSH 金鑰",
     "36": "The selected SSH keys that will be configured under the root user when the operating system is installed.",
     "37": "擁有者:",
-    "38": "Token accepted successfully.",
+    "38": "成功共用 SSH 金鑰",
     "39": "建立時間:",
     "40": "已啟用",
     "41": "未啟用",
@@ -46,7 +46,7 @@
     "44": "The supplied token is not valid.",
     "45": "成功啟用 SSH 金鑰",
     "46": "成功停用 SSH 金鑰",
-    "47": "Name must be between 3 and 100 characters and is a required field.",
+    "47": "名稱必須介於 3 到 150 個字元之間，並且是必填欄位。",
     "48": "Public Key must be a valid key and is a required field.",
     "49": "您"
 }
