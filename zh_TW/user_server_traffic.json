@@ -1,11 +1,11 @@
 {
     "dir": "ltr",
-    "1": "Date",
-    "2": "Data Received",
-    "3": "Data Transmitted",
-    "4": "Total Data",
-    "5": "Data may take up to 24 hours to become available",
-    "6": "Monthly Usage",
-    "7": "Daily Usage",
-    "8": "Month Ending"
+    "1": "日期",
+    "2": "下載",
+    "3": "上傳",
+    "4": "上傳 + 下載",
+    "5": "24小時後才會有統計資料",
+    "6": "每月用量",
+    "7": "每日用量",
+    "8": "月底"
 }
