@@ -32,7 +32,7 @@
     "30": "您確定要移除對於這個 SSH 金鑰的權限嗎?",
     "31": "移除",
     "32": "SSH 金鑰",
-    "33": "個金鑰",
+    "33": "個金鑰 ",
     "34": "可新增空間",
     "35": "新增 SSH 金鑰",
     "36": "The selected SSH keys that will be configured under the root user when the operating system is installed.",
