@@ -47,7 +47,7 @@
     "45": "Failed to find backup.",
     "46": "Backup restores are currently unavailable. Try again later.",
     "47": "Restore rate limited. Try again later.",
-    "48": "備份",
+    "48": "Backup",
     "49": "備份會將主要磁碟中的資料複製一份，任何附加的硬碟空間都不會包含在內。",
     "50": "您可以擁有",
     "51": "個備份。",
